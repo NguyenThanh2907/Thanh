@@ -18,6 +18,7 @@ III. Thực hiện:
 - Thay đổi chủ sở hữu của các tập tin:
  ![image](https://github.com/user-attachments/assets/74d9bf6f-4902-4a39-9a21-962a0bc9336e)
 - Tạo PKI:
+
  ![image](https://github.com/user-attachments/assets/7582b6ed-1587-40f9-a498-8824905f5026)
 - Tạo các DIR để giữ các tệp:
  ![image](https://github.com/user-attachments/assets/18d4a24f-632e-47c6-9e67-4010094e4aa9)
