@@ -19,7 +19,7 @@ III. Thực hiện:
  ![image](https://github.com/user-attachments/assets/74d9bf6f-4902-4a39-9a21-962a0bc9336e)
 - Tạo PKI:
 
- ![image](https://github.com/user-attachments/assets/7582b6ed-1587-40f9-a498-8824905f5026)
+  ![image](https://github.com/user-attachments/assets/7582b6ed-1587-40f9-a498-8824905f5026)
 - Tạo các DIR để giữ các tệp:
  ![image](https://github.com/user-attachments/assets/18d4a24f-632e-47c6-9e67-4010094e4aa9)
 - Dựng CA:
@@ -47,8 +47,9 @@ III. Thực hiện:
 - Cấp cho server khả năng chuyển tiếp IP:
  ![image](https://github.com/user-attachments/assets/799d5582-a0eb-4c93-94cc-e825ebeadb94)
 - Tạo tệp cấu hình:
- ![image](https://github.com/user-attachments/assets/4c68a34b-630e-4ea8-adde-36c47eef5695)
- ![image](https://github.com/user-attachments/assets/02a71053-fe0b-441a-8345-2429d53f364b)
+  
+  ![image](https://github.com/user-attachments/assets/4c68a34b-630e-4ea8-adde-36c47eef5695)
+  ![image](https://github.com/user-attachments/assets/02a71053-fe0b-441a-8345-2429d53f364b)
 - Bật dịch vụ OpenVPN Server:
  ![image](https://github.com/user-attachments/assets/e36947f9-53d8-451e-9030-a612bd1a0012)
 - Thêm luật iptables:
@@ -73,7 +74,8 @@ III. Thực hiện:
  ![image](https://github.com/user-attachments/assets/bc0c8595-ae44-4e2b-9454-87d81b0b4418)
 3. Kiểm tra kết nối:
 - Ping từ máy Windows 10 sang máy Windows 7:
- ![image](https://github.com/user-attachments/assets/86cf0c9a-4737-42da-984d-12da4f765bae)
+  
+  ![image](https://github.com/user-attachments/assets/86cf0c9a-4737-42da-984d-12da4f765bae)
 - Thực hiện truy cập vào tệp của máy Windows 7:
  ![image](https://github.com/user-attachments/assets/136e1019-3e52-4d6c-a017-e2e257b59188)
 - Thử xóa thư mục test, thư mục biến mất ở máy Windows 7:
